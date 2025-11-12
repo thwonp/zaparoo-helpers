@@ -5,7 +5,7 @@
 # Processes multiple system directories (gba/, snes/, etc.)
 #
 # USAGE:
-#   ./magic.sh
+#   ./imagemagick_composer.sh
 #
 #   Run from the directory containing template.png and system subdirectories
 #
